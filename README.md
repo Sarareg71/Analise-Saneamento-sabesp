@@ -18,7 +18,9 @@ Projeto de Business Intelligence desenvolvido na ferramenta Poe para análise de
 Este projeto possui um assistente de IA desenvolvido na plataforma Poe para auxiliar em análises de saneamento basico e impactos relacionados à privatização da SABESP.
 
 ### 🔗 Acesse o projeto
-[![Poe AI](https://img.shields.io/badge/Poe-Assistente_IA-purple?style=for-the-badge)](https://poe.com/s/KmVdx2Sk16Izes3pcjjw)
+<a href="https://poe.com/s/KmVdx2Sk16Izes3pcjjw" target="_blank">
+  <img src="https://img.shields.io/badge/🤖_Abrir_Assistente_IA_no_Poe-6D28D9?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
 
 👉 Clique aqui para acessar o bot:
 [https://poe.com/s/KmVdx2Sk16Izes3pcjjw](https://poe.com/)
